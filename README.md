@@ -1,5 +1,5 @@
 Ripple Bounty Program Guidelines
----
+================================
 We're pleased to offer bounties for projects that we deem valuable for the advancement of the Ripple project. Here are some things to keep in mind if you'd like to participate:
 
 1. All bounties will be denominated in XRP
@@ -24,7 +24,7 @@ We're pleased to offer bounties for projects that we deem valuable for the advan
     * These will be broken down into multiple issues in the projects Github repository
     * The master bounty total must be equivalent to the sum of the amounts offered for the sub-bounties
 
-6. Bounties are considered complete when the code has been merged or uploaded to github and made public
+6. Bounties are considered complete when the code has been merged or forked on github and made public
     * Bounties involving code submission to a repo under [https://github.com/ripple](https://github.com/ripple) will be reviewed, vetted, and approved by a member of the Ripple Labs team
         * Bounties involving code submission to any non-Ripple repo will be reviewed, vetted and approved by the bounty proposer or a community member designated by the proposer
 
