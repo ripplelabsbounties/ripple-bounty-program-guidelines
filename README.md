@@ -1,6 +1,5 @@
 Ripple Bounty Program Guidelines
 ---
-***
 We're pleased to offer bounties for projects that we deem valuable for the advancement of the Ripple project. Here are some things to keep in mind if you'd like to participate:
 
 1. All bounties will be denominated in XRP
